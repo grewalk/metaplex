@@ -1,1 +1,10 @@
-pubkey: F2npds798fgzeUWaoWrJSACJMznsbeoCcQZX5pv5ovAs
+FOR DEVNET
+
+pubkey: GWGSGt2GGkmHsJAwKTKrEjFdEKkVvxE6cHLz9QKECX9m
+candy machine with publickey: 5q2qkeJh3Sum8f4wm9vMZX9t4RFkdtcmTf2bbyZ4dsoH
+
+{"program":{"uuid":"5q2qke","config":"5q2qkeJh3Sum8f4wm9vMZX9t4RFkdtcmTf2bbyZ4dsoH"},"items":{"0":{"link":"https://arweave.net/2YJ79NGusn-YcmVT_0krd4Z9DA6UyPeo7GKdCbuZTC0","name":"Sigh Ducks Gen0 #10","onChain":true},"1":{"link":"https://arweave.net/4_Nhfxv_IVOh7IEubUl3nf8ZUFS_8cn6HD5morjadsk","name":"Sigh Ducks Gen0 #1","onChain":true}},"env":"devnet","cacheName":"temp","authority":"GWGSGt2GGkmHsJAwKTKrEjFdEKkVvxE6cHLz9QKECX9m"}
+
+candy machine pubkey: Qm37S7wwA6pQJ32pgM1r32wHTzWNEcp2J8XbZJ9ajyu
+
+timestamp: 1633240800 (3 Oct 2021 00:00:00 CST)

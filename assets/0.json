@@ -1,0 +1,44 @@
+{
+    "name": "Sigh Ducks Gen0 #1",
+    "symbol": "",
+    "description": "If it looks like a duck and sighs like a duck, that's a real duck! #nft #solana",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "yes"
+     },
+     {
+        "trait_type": "Body",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Background",
+        "value": "10"
+      }
+    ],
+    "collection": {
+       "name": "Sigh Ducks Gen 0",
+       "family": "Sigh Ducks"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "F2npds798fgzeUWaoWrJSACJMznsbeoCcQZX5pv5ovAs",
+          "share": 100
+        }
+      ]
+    }
+  }
