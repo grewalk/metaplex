@@ -22,6 +22,7 @@ target
 .env
 .vscode
 bin
+assets/
 config.json
 node_modules
 ./package-lock.json

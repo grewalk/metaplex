@@ -1,44 +1,62 @@
 {
-    "name": "Sigh Ducks Gen0 #1",
-    "symbol": "",
-    "description": "If it looks like a duck and sighs like a duck, that's a real duck! #nft #solana",
-    "seller_fee_basis_points": 500,
-    "image": "image.png",
-    "attributes": [
+  "dna": "338837d04ea6c2e364ef617468dc8072af36c7dc",
+  "name": "Sigh Ducks Gen 0 #1",
+  "description": "If it looks like a duck and sighs like a duck, that's a real duck! #sighducks",
+  "seller_fee_basis_points": 700,
+  "image": "image.png",
+  "edition": 1,
+  "symbol": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "collection": {
+    "name": "Sigh Ducks Gen 0",
+    "family": "Sigh Ducks"
+  },
+  "properties": {
+    "files": [
       {
-        "trait_type": "Head",
-        "value": "Square"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "no"
-     },
-     {
-        "trait_type": "Body",
-        "value": "yes"
-      },
-      {
-        "trait_type": "Background",
-        "value": "0"
+        "uri": "image.png",
+        "type": "image/png"
       }
     ],
-    "collection": {
-       "name": "Sigh Ducks Gen 0",
-       "family": "Sigh Ducks"
-    },
-    "properties": {
-      "files": [
-        {
-          "uri": "image.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "F2npds798fgzeUWaoWrJSACJMznsbeoCcQZX5pv5ovAs",
-          "share": 100
-        }
-      ]
-    }
+    "category": "image",
+    "creators": [
+      {
+        "address": "ASszz4eQRNfw2euu2bG7C93hoENvG1AiSapvpPenn9Ax",
+        "share": 50
+      },
+      {
+        "address": "ChStNqrcv4ho2K6cRUwoVV79UDVUSpqefLPKNKokFdvr",
+        "share": 50
+      }
+    ]
   }
+}
